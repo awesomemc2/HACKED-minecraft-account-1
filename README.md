@@ -3,6 +3,10 @@
 ### How to install
 
 1.Copy this code
+
+
+
+
 $ git awesomemc2.github.io/install
 
 Note:u will get and error thats rights
